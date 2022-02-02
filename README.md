@@ -1,2 +1,2 @@
 # hellow-world
-my first repository
+New to this. Dipping my toe into it all.
